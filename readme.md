@@ -10,6 +10,7 @@
 6. Local addition.
 6. Remote addition
 7. Remote addition 2
+7. Local addition 2
 
 
 
