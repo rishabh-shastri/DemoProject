@@ -8,6 +8,8 @@
 4. Making changes through test3 branch.
 5. Testing for fork
 6. Local addition.
+6. Remote addition
+
 
 
 
